@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aisen Vivas. I'm a last year PhD. Student at the University of Twente in The Netherlands. 
 - 👀 I’m interested in Data Science and Embedded Systems.
-- 🌱 I’m currently learning ...
 - 📫 a.g.desavivas@utwente.nl
 
 <!---
