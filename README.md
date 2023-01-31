@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aisen Vivas. I'm a last year PhD. Student at the University of Twente in The Netherlands. 
+- 👋 Hi, I’m Aisen Vivas. I'm a Biomedical Engineer. 
 - 👀 I’m interested in Data Science and Embedded Systems.
 - 📫 a.g.desavivas@utwente.nl
 
